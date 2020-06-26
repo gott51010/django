@@ -1,2 +1,12 @@
+# linux
+CentOS6.9
+
+
+# python 
+3.7.6
+
 # django
-django + uwsgi + nginx
+django(3.0.7) + uwsgi + nginx
+
+
+Elasticsearch も使ってみたいなぁ
