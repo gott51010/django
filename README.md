@@ -9,4 +9,4 @@ CentOS6.9
 django(3.0.7) + uwsgi + nginx
 
 
-Elasticsearch も使ってみたいなぁ
+Docker ,Elasticsearch も使ってみたいなぁ
