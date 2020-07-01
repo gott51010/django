@@ -26,5 +26,6 @@ urlpatterns = [
     # 路由设定  , 指定文件.函数名
     url('home/', views.hello),
     url('nihao/', views.nihao),
+    url('maopao/', views.maopao),
   
 ]
